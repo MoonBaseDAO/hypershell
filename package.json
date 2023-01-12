@@ -31,6 +31,7 @@
     "compact-encoding": "^2.11.0",
     "graceful-goodbye": "^1.1.0",
     "keypear": "^1.1.1",
+    "node-pty": "^0.10.1",
     "protomux": "^3.4.0",
     "pump": "^3.0.0",
     "read-file-live": "^1.0.1",
